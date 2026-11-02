@@ -1,4 +1,4 @@
-# Monospace for Orca
+# Monospace Themes for Orca
 
 Two appearances. One quiet palette.
 
@@ -16,10 +16,10 @@ Requires **Orca 1.4.245 or newer**.
 2. Choose **Add plugin → From a Git URL…** and enter:
 
    ```text
-   https://github.com/faisalmuhammad/orca-monospace-themes#v1.1.1
+   https://github.com/faisalmuhammad/orca-monospace-themes#v1.1.2
    ```
 
-   Keep `#v1.1.1` at the end. Orca requires a release tag or commit hash to install from Git.
+   Keep `#v1.1.2` at the end. Orca requires a release tag or commit hash to install from Git.
 3. In **Settings → Appearance**, choose **Monospace Dark** as the dark app theme and **Monospace Light** as the light app theme.
 4. Choose the matching **Monospace Dark** or **Monospace Light** terminal palette, then select your preferred appearance.
 

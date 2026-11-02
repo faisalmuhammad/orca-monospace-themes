@@ -1,9 +1,9 @@
 {
   "manifestVersion": 2,
   "publisher": "faisalmuhammad",
-  "id": "monospace-dark",
-  "name": "Monospace",
-  "version": "1.1.1",
+  "id": "monospace-themes",
+  "name": "Monospace Themes",
+  "version": "1.1.2",
   "execution": "data",
   "description": "Monospace Light and Dark themes for Orca, with app colors, editor syntax highlighting, and matching terminal palettes. Ported from Keksi’s VS Code themes.",
   "license": "MIT",
@@ -40,7 +40,7 @@
   "icon": "images/icon.png",
   "cover": {
     "path": "images/cover.png",
-    "alt": "Monospace cover with a glowing purple monogram and palette for the Light and Dark theme collection"
+    "alt": "Monospace Themes cover with a glowing purple monogram and palette for the Light and Dark theme collection"
   },
   "screenshots": [
     {
