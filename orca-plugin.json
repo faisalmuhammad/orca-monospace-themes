@@ -1,0 +1,60 @@
+{
+  "manifestVersion": 2,
+  "publisher": "faisalmuhammad",
+  "id": "monospace-dark",
+  "name": "Monospace",
+  "version": "1.1.1",
+  "execution": "data",
+  "description": "Monospace Light and Dark themes for Orca, with app colors, editor syntax highlighting, and matching terminal palettes. Ported from Keksi’s VS Code themes.",
+  "license": "MIT",
+  "engines": {
+    "orca": ">=1.4.245"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "monospace-dark",
+        "title": "Monospace Dark",
+        "path": "themes/monospace-dark.json"
+      },
+      {
+        "id": "monospace-light",
+        "title": "Monospace Light",
+        "path": "themes/monospace-light.json"
+      }
+    ],
+    "terminalThemes": [
+      {
+        "id": "monospace-dark",
+        "title": "Monospace Dark",
+        "path": "terminal/monospace-dark.json"
+      },
+      {
+        "id": "monospace-light",
+        "title": "Monospace Light",
+        "path": "terminal/monospace-light.json"
+      }
+    ]
+  },
+  "capabilities": [],
+  "icon": "images/icon.png",
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "Monospace cover with a glowing purple monogram and palette for the Light and Dark theme collection"
+  },
+  "screenshots": [
+    {
+      "path": "images/editor.png",
+      "alt": "Rendered preview of Monospace Dark code colors, file tree, and terminal ANSI palette",
+      "caption": "Rendered preview — code and terminal colors",
+      "theme": "dark"
+    },
+    {
+      "path": "images/editor-light.png",
+      "alt": "Rendered preview of Monospace Light syntax, pale sidebar, and matching terminal palette",
+      "caption": "Rendered preview — Monospace Light",
+      "theme": "light"
+    }
+  ],
+  "repository": "https://github.com/faisalmuhammad/orca-monospace-themes"
+}
